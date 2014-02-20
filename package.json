@@ -1,0 +1,20 @@
+{
+  "name": "payeer",
+  "description": "Payeer.com API client",
+  "keywords": ["payeer", "payment"],
+  "version": "0.0.1",
+  "licence": "MIT",
+  "author": {
+    "name": "Roman Dolgushin",
+    "email": "rd@roman-dolgushin.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdolgushin/payeer"
+  },
+  "dependencies": {
+    "underscore": "1.6.0",
+    "stdlog": "0.0.8"
+  },
+  "main": "./lib/index.js"
+}
